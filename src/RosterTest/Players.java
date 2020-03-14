@@ -1,7 +1,7 @@
 package RosterTest;
 
 import javax.persistence.*;
-
+//  Getters used to pull data from database are in this file.
 @Entity
 @Table(name = "players")
 public class Players {
